@@ -38,4 +38,11 @@ REST API developed to manage a product catalog using Node.js, Express and MySQL.
 
 1. Clone the repository
 2. Install dependencies:
+3. Configure MySQL database
+4. Run:
 
+---
+
+## 🎯 Purpose
+
+Practice building REST APIs, database integration and clean project organization.
